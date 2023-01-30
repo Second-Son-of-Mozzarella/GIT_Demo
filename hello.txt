@@ -1,5 +1,4 @@
-<<<<<<< Updated upstream
 Hello World
-=======
 Hola Mundo
->>>>>>> Stashed changes
+Chaio
+
